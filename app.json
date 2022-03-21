@@ -9,7 +9,7 @@
         "video stream"
     ],
     "website": "https://t.me/levinachannel",
-    "repository": "https://github.com/levina-lab/video-stream",
+    "repository": "https://github.com/gothikzoul/video-stream-1",
     "success_url": "https://t.me/dlwrml",
     "env": {
         "API_ID": {
